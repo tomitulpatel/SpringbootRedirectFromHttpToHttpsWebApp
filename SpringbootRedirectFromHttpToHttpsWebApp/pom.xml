@@ -50,6 +50,8 @@
 			</plugin>
 		</plugins>
 	</build>
-
+<!--
+Adding comment
+-->
 
 </project>
